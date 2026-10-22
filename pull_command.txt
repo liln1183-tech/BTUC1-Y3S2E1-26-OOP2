@@ -1,0 +1,9 @@
+
+# cd to selected directory
+git init 
+git branch -M main
+git add remote origin https://github.com/liln1183-tech/BTUC1-Y3S2E1-26-OOP2.git
+git pull origin main
+
+# reset change 
+git reset --hard origin/main
