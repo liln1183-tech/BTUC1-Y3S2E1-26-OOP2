@@ -1,5 +1,5 @@
 
-# test 1
+# test 1  test 2
 #!/bin/bash
 
 # Check if there are any changes to commit
