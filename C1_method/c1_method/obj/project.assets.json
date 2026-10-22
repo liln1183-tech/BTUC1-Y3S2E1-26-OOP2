@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\desk-tm\\Coding\\Csharp\\2026\\U1E1-OOP-2\\C1_method\\c1_method\\c1_method.csproj",
+      "projectUniqueName": "D:\\desk-tm\\Coding\\Csharp\\2026\\U1E1-OOP-CS-2\\C1_method\\c1_method\\c1_method.csproj",
       "projectName": "c1_method",
-      "projectPath": "D:\\desk-tm\\Coding\\Csharp\\2026\\U1E1-OOP-2\\C1_method\\c1_method\\c1_method.csproj",
+      "projectPath": "D:\\desk-tm\\Coding\\Csharp\\2026\\U1E1-OOP-CS-2\\C1_method\\c1_method\\c1_method.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\desk-tm\\Coding\\Csharp\\2026\\U1E1-OOP-2\\C1_method\\c1_method\\obj\\",
+      "outputPath": "D:\\desk-tm\\Coding\\Csharp\\2026\\U1E1-OOP-CS-2\\C1_method\\c1_method\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

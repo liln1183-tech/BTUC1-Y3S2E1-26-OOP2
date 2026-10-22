@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\desk-tm\\Coding\\Csharp\\2026\\U1E1-OOP-2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\desk-tm\\Coding\\Csharp\\2026\\U1E1-OOP-CS-2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "D:\\desk-tm\\Coding\\Csharp\\2026\\U1E1-OOP-2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "D:\\desk-tm\\Coding\\Csharp\\2026\\U1E1-OOP-CS-2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\desk-tm\\Coding\\Csharp\\2026\\U1E1-OOP-2\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\desk-tm\\Coding\\Csharp\\2026\\U1E1-OOP-CS-2\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
