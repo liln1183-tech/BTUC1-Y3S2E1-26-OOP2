@@ -1,0 +1,15 @@
+D:\desk-tm\Coding\Csharp\2026\U1E1-OOP-2\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+D:\desk-tm\Coding\Csharp\2026\U1E1-OOP-2\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+D:\desk-tm\Coding\Csharp\2026\U1E1-OOP-2\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+D:\desk-tm\Coding\Csharp\2026\U1E1-OOP-2\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+D:\desk-tm\Coding\Csharp\2026\U1E1-OOP-2\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+D:\desk-tm\Coding\Csharp\2026\U1E1-OOP-2\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\desk-tm\Coding\Csharp\2026\U1E1-OOP-2\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\desk-tm\Coding\Csharp\2026\U1E1-OOP-2\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+D:\desk-tm\Coding\Csharp\2026\U1E1-OOP-2\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\desk-tm\Coding\Csharp\2026\U1E1-OOP-2\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+D:\desk-tm\Coding\Csharp\2026\U1E1-OOP-2\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+D:\desk-tm\Coding\Csharp\2026\U1E1-OOP-2\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+D:\desk-tm\Coding\Csharp\2026\U1E1-OOP-2\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+D:\desk-tm\Coding\Csharp\2026\U1E1-OOP-2\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
+D:\desk-tm\Coding\Csharp\2026\U1E1-OOP-2\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleA.CB28C8CC.Up2Date
